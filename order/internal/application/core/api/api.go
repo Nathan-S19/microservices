@@ -2,7 +2,7 @@ package api
 
 import (
 	"github.com/Nathan-S19/microservices/order/internal/application/core/domain"
-	"github.com/Nathan-S19/microservices/order/internal/application/ports"
+	"github.com/Nathan-S19/microservices/order/internal/ports"
 )
 
 type Application struct {
